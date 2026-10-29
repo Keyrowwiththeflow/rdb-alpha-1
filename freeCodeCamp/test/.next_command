@@ -241,3 +241,7 @@ mkdir client/assets/icons
 clear
 mv CodeAlly.svg client/assets/icons
 find
+find --name CodeAlly.svg
+find -name CodeAlly.svg
+ls --color=auto
+mv CodeRoad.svg client/assets/icons
