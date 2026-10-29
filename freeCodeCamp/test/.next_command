@@ -276,3 +276,10 @@ cd ..
 ls --color=auto
 find
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-lights.woff
+find
+rm roboto-lights.woff
+client/assets/fonts/roboto-lights.woff
+rm client/assets/fonts/roboto-lights.woff
+find
+touch client/assets/fonts/roboto-light.woff
