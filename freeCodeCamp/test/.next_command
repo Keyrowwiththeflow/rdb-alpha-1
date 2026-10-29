@@ -104,3 +104,6 @@ touch .gitignore
 ls --color=auto
 --help
 ls --color=auto --help
+-a
+__vsc_prompt_cmd_original
+ls --color=auto -a
