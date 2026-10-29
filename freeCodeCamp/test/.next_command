@@ -188,3 +188,4 @@ mv background.jpg
 mv background.jpg images
 touch background.jpg
 cd ../../..
+cd images
