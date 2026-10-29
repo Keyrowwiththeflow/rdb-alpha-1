@@ -238,3 +238,5 @@ mkdir -h
 mkdir --help
 mkdir icons assets
 mkdir client/assets/icons
+clear
+mv CodeAlly.svg client/assets/icons
