@@ -81,3 +81,4 @@ cd has
 cd ..
 cd node_modules
 cd ..
+cd ../..
