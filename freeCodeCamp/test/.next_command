@@ -283,3 +283,5 @@ client/assets/fonts/roboto-lights.woff
 rm client/assets/fonts/roboto-lights.woff
 find
 touch client/assets/fonts/roboto-light.woff
+find
+find client/assets/fonts
