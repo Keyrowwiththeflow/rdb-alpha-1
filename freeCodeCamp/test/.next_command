@@ -253,3 +253,26 @@ find
 rm client/assets/fonts
 find
 mkdir client/assets/fonts
+touch roboto-bold.woff client/assets/fons
+touch roboto-bold.woff client/assets/fonts
+find
+clear
+touch roboto-bold.woff fonst
+touch roboto-bold.woff fonts
+find
+rm fonst
+find
+touch roboto-bold.woff clients/assets/fonts
+touch clients/assets/fonts/roboto-bold.woff
+touch fonts/roboto-bold.woff
+find
+rm roboto-bold.woff
+find
+rm roboto-bold.woff fonts
+cd fonts
+rm roboto-bold.woff
+find
+cd ..
+ls --color=auto
+find
+touch client/assets/fonts/roboto-bold.woff
