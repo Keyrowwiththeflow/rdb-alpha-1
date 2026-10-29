@@ -208,3 +208,6 @@ rm dir website/images
 rm dir images
 rimdir website/images
 rmdir images
+cd images
+ls --color=auto
+rm background.jpg
