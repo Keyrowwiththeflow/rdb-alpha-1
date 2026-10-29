@@ -62,3 +62,5 @@ cd has
 ls --color=auto
 more readme.md
 more README.md
+__vsc_prompt_cmd_original
+ls --color=auto
