@@ -47,3 +47,4 @@ cd freeCodeCamp
 pwd
 ls --color=auto freeCodeCamp
 cd test
+pwd
