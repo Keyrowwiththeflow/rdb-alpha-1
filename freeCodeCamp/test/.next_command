@@ -72,3 +72,10 @@ cd src
 pwd
 ls --color=auto
 more index.js
+cd has
+ls --color=auto ..
+cd has
+pwd
+ls --color=auto ..
+cd has
+cd ..
