@@ -157,3 +157,10 @@ mkdir client
 mkdir client/src
 mv index.html client/src
 find
+cd client/src
+ls --color=auto
+cd website
+cd ..
+cd ..
+find
+mv index.js client/src
