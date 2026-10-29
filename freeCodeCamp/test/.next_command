@@ -91,3 +91,9 @@ cd website
 ls --color=auto
 echo hello website
 touch index.html
+__vsc_prompt_cmd_original
+touch style.css
+ls --color=auto
+rm style.css
+ls --color=auto
+touch styles.css
