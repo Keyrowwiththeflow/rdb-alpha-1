@@ -164,3 +164,5 @@ cd ..
 cd ..
 find
 mv index.js client/src
+mv style.css client/src
+mv styles.css client/src
