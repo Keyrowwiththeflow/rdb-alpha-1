@@ -343,3 +343,4 @@ rm website/fonts -r
 pwd
 find
 rm fonts -r
+ls --color=auto
