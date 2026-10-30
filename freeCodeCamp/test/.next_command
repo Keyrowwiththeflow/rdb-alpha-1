@@ -339,3 +339,7 @@ rm -r fonts
 rm --help
 cd website
 rm --help
+rm website/fonts -r
+pwd
+find
+rm fonts -r
