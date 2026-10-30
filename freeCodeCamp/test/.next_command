@@ -361,3 +361,6 @@ more README.md
 cd project
 cd ..
 ls --color=auto
+--help
+help
+mv website website-boilerplate
