@@ -366,3 +366,6 @@ help
 mv website website-boilerplate
 mv --help
 ls --color=auto
+help
+copy --help
+cp --help
