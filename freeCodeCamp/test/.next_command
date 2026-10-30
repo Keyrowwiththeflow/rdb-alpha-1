@@ -369,3 +369,7 @@ ls --color=auto
 help
 copy --help
 cp --help
+cp website-boilerplate toms-website
+cp website-boilerplate -t toms-website
+cp -r website-boilerplate
+cp -r website-boilerplate toms-website
